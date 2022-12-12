@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Peking University, 2011
-* M.S. in Computer Science, Western University, 2013
+* M.S. in Computer Vision, Western University, 2013
 * Ph.D in Human-Computer Interaction, Simon Fraser University, 2019
 
 Work experience
