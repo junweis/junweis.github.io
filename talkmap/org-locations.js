@@ -20,7 +20,7 @@ var addressPoints = [
     -123.113952
   ], 
   [
-    "Sydney NSW, Australia", 
+    "Sydney, Australia", 
     -33.8698439, 
     151.2082848
   ]
