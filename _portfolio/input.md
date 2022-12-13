@@ -1,6 +1,6 @@
 ---
 title: "Comparing Input Methods for 3D Positioning in VR"
-excerpt: "Comparing Mouse, Hand-Tracking, and Trackpad as Input Devices<br/><img src='/images/image2.jpg' width='480'>"
+excerpt: "Comparing Mouse, Hand-Tracking, and Trackpad as Input Devices<br/><img src='/images/input.jpg' width='480'>"
 collection: portfolio
 ---
 
