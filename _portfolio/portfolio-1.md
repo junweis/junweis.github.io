@@ -1,6 +1,6 @@
 ---
 title: "Pen Shaft as Input Device for Touchscreens"
-excerpt: "Augmenting the Shaft of a Capacitive Pen with Interactive Capabilities<br/><img src='/images/image1.jpg'>"
+excerpt: "Augmenting the Shaft of a Capacitive Pen with Interactive Capabilities<br/><img src='/images/image1.jpg' width='180'>"
 collection: portfolio
 ---
 
