@@ -1,8 +1,8 @@
 ---
-title: "Sessional Instructor"
+title: "Sessional Instructor at SFU"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2017-summer-instructor
+permalink: /teaching/2017-sfu-instructor
 venue: "SIAT, Simon Fraser University"
 date: 2017-05-01
 location: "Surrey, Canada"
