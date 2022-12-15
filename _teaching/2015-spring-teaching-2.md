@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assiatant at SFU"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2014-2019-sfu
+venue: "SIAT, Simon Fraser University"
+date: 2015-2019
+location: "Surrey, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have been teaching assistant for 9 different programming courses over the years at SFU. I have helped more than 800 students.
 
-Heading 1
-======
+* CMPT 225 – Data Structures and Programming: I led lab tutorials of C++ programming, data structures, and algorithms.
 
-Heading 2
-======
+* IAT 265 – Multimedia Programming: I led coding tutorials of Java, helped students to create interactive applications.
 
-Heading 3
-======
+* IAT 235 – Information Design: I led coding tutorials of responsive web design with HTML5, CSS3, and JavaScript.
+
+* IAT 167 – Digital Games: Genre, Structure, Programming and Play: I helped teach game development concepts and methods using Java Programming.
+
+* CMPT 166 – An Animated Introduction to Programming: I helped teach Java Programming.
