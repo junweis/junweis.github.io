@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-summer-instructor
 venue: "SIAT, Simon Fraser University"
-date: 2017
 location: "Surrey, Canada"
 ---
 
