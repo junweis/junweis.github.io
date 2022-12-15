@@ -17,43 +17,43 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 2019 - Present: HCI Researcher at Huawei HMI Lab
+  * Been project manager for 3 VR-related projects that led to publications to top conferences, worked hands-on on development (C# & Java), user experiment design, paper writing, etc.
+  * Led a R&D project of designing an input device for remote interaction with large displays, worked on quick prototyping, users studies, and patent filing.
+  * Led a R&D project of touchscreen input classification using deep learning (Python & TensorFlow).
+  * Applied for 5+ HCI-related patents.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Sep 2014 - Sep 2019: Research Assistant at VVISE Lab, Simon Fraser University
+  * Used Unity engine, C#, and GPU programming to develop two novel interaction techniques for positioning of 3D objects, which profoundly outperformed industry standard approach.
+  * Adapted my techniques to virtual reality (VR) with HTC Vive and Oculus Rift. Analyzed different input devices for in VR.
+  * Conducted multiple user studies. Used Python, JMP, and SPSS to analyze the data.
+  * Presented my work with talks, demos, and posters at multiple academic conferences.
+
+* Aug 2018: Student Volunteer at ACM SIGGRAPH 2018
+  * Worked 25 hours on various shifts. Helped attendees with a warm smile.
+
+* Sep 2013 - Aug 2014: Research Assistant at York University
+  * Implemented an efficient 3D manipulation technique.
+  * Compared text entry performance of different input modes with user studies, with and without auto-correction.
+
+* Sep 2011 - Dec 2012: Research Assistant at Western University
+  * Used machine learning and computer vision algorithms to automatically detect and classify epilepsy lesions from digitized MRI images. Achieved 93% accuracy. Programmed with C++ and MATLAB.
+  * Classified different human actions from video sequences with machine learning methods using MATLAB.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
