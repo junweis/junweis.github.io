@@ -1,7 +1,7 @@
 ---
 title: "Selecting and Sliding Hidden Objects in 3D Desktop Environments"
 collection: publications
-permalink: /publication/2019-05-28-Transparency
+permalink: /publications/2019-05-28-Transparency
 excerpt:
 date: 2019-05-28
 venue: 'Graphics Interface'

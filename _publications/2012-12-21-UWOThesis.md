@@ -1,7 +1,7 @@
 ---
 title: "Automatic Classification of Epilepsy Lesions"
 collection: publications
-permalink: /publication/2012-12-21-UWOThesis
+permalink: /publications/2012-12-21-UWOThesis
 excerpt:
 date: 2012-12-21
 venue: 'UWO Thesis'

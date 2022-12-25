@@ -1,7 +1,7 @@
 ---
 title: "Object Sliding and Beyond: Investigating Object Manipulation in 3D User Interfaces"
 collection: publications
-permalink: /publication/2019-09-23-SFUThesis
+permalink: /publications/2019-09-23-SFUThesis
 excerpt:
 date: 2019-09-23
 venue: 'SFU Thesis'
