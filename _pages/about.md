@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Human-Computer Interaction researcher at Huawei HMI Lab. I work on novel interaction technologies that enhance people's daily life. My current projects involve wearable devices and spatial interaction.
+I am a researcher specializing in Human-Computer Interaction at Huawei’s HMI Lab, where I focus on developing cutting-edge interaction technologies. My current work involves cross-device interaction and Human-AI interaction.
 
-I was born in Tianjin, China. I obtained a B.Sc. in Intelligence Science and Technology at Peking University and an M.Sc. in Computer Vision from Western University. My master's thesis was about image classification using machine learning techniques. I completed a Ph.D. at SIAT, Simon Fraser University under Dr. Wolfgang Stuerzlinger's supervision. My doctoral dissertation was about 3D user interface and virtual reality. Outside of research, I have worked as a teaching assistant, instructor, and tutor.
+I was born in Tianjin, China, and pursued a B.Sc. in Intelligence Science and Technology at Peking University. I later earned an M.Sc. in Computer Vision from Western University, with my master’s thesis exploring image classification through machine learning techniques. I completed my Ph.D. at Simon Fraser University’s SIAT under the mentorship of Dr. Wolfgang Stuerzlinger, with my research concentrating on 3D user interfaces and virtual reality.
+
+In addition to my research, I have experience as a teaching assistant, instructor, and tutor, supporting and guiding students in various academic settings.
