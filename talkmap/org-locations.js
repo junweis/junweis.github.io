@@ -23,5 +23,15 @@ var addressPoints = [
     "Sydney, Australia", 
     -33.8698439, 
     151.2082848
+  ],
+  [
+    "Harbin, China",
+    45.7748896,
+    126.6764826
+  ],
+  [
+    "Guangzhou, China",
+    22.8916128,
+    113.4790189
   ]
 ];
